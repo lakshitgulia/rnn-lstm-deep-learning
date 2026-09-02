@@ -18,23 +18,3 @@ Predicts the next word in a sequence, trained on Hamlet text data.
 
 **Tech stack:** Python, TensorFlow, Keras, NumPy, Pandas, Streamlit, Jupyter Notebook
 
-## 📂 Repository Structure
-rnn-lstm-deep-learning/
-│
-├── RNN_IMDB/
-│ ├── embedding.ipynb
-│ ├── simplernn.ipynb
-│ ├── prediction.ipynb
-│ ├── main.py
-│ └── simple_rnn_imdb.h5
-│
-├── LSTM_PREDICTION/
-│ ├── experiments.ipynb
-│ ├── app.py
-│ ├── hamlet.txt
-│ ├── predict_next_word_model.h5
-│ └── tokenizer.pickle
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
